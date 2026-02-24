@@ -2,7 +2,7 @@
 
 Aqui estão os exercícios dado em cada dia de aula, separados por dia.
 
-### Links
+## Links
 
 - [Exercícios da aula 1](./aula1)
 - [Exercícios da aula 2](./aula2)
