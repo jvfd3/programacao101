@@ -65,14 +65,14 @@ Bem-vindo ao repositório do curso [Programação 101](http://programacao101.com
   - [Dia 4][Python_Exercises_4]
   - [Dia 5][Python_Exercises_5]
 
-[Python_Canva_1]: https://www.canva.com/design/DAF829jPjIM/3sJ5nyH9RqVr-IzRmJ3LMA/view
-[Python_Canva_2]: https://www.canva.com/design/DAF83Gy7xfI/cCQfVxdIqfN7iTePFBV9IA/view
-[Python_Canva_3]: https://www.canva.com/design/DAF83IU17f8/IDLd8-Og_57zP2r2v9u9KA/view
-[Python_Canva_4]: https://www.canva.com/design/DAGQfkfANm0/74XJNDn3tLIGx6ZcYKBcXg/view
-[Python_Canva_5]: https://www.canva.com/design/DAGQf994aQc/FNLdVFTZzYLhPDi6rzFizQ/view
+[Python_Canva_1]: https://tinyurl.com/prog101-aula1
+[Python_Canva_2]: https://tinyurl.com/prog101-aula2
+[Python_Canva_3]: https://tinyurl.com/prog101-aula3
+[Python_Canva_4]: https://tinyurl.com/prog101-aula4
+[Python_Canva_5]: https://tinyurl.com/prog101-aula5
 [Python_Exercises]: https://drive.google.com/drive/folders/1zz1Xs57i5M8dAzyHtAKgbquieJyGxCKe
-[Python_Exercises_1]: https://colab.research.google.com/drive/19itV7TfxrQdMTBgU5w43DFgvya_7Kq8K?usp=sharing
-[Python_Exercises_2]: https://colab.research.google.com/drive/1Ia0yRtNtVd85fWCNV9JTyszgoSpHIdL-?usp=sharing
-[Python_Exercises_3]: https://colab.research.google.com/drive/1Umt-FIEV9n2VUnNO5gUvYwQ6NcTJQ5JQ?usp=sharing
-[Python_Exercises_4]: https://colab.research.google.com/drive/1-pSiGQRl_xP22NxTR83Qa15uYB3rgv5p?usp=sharing
-[Python_Exercises_5]: https://colab.research.google.com/drive/1gea0w6afu8P2tdHygoMXB6QPqoUqaDLb?usp=sharing
+[Python_Exercises_1]: https://tinyurl.com/prog101-aula1-ex
+[Python_Exercises_2]: https://tinyurl.com/prog101-aula2-ex
+[Python_Exercises_3]: https://tinyurl.com/prog101-aula3-ex
+[Python_Exercises_4]: https://tinyurl.com/prog101-aula4-ex
+[Python_Exercises_5]: https://tinyurl.com/prog101-aula5-ex
