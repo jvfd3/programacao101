@@ -1,16 +1,19 @@
 #include <stdio.h>
-int main(){
+
+int main()
+{
   int N, numAna, numBeatriz;
   int pontosAna = 0, pontosBeatriz = 0;
 
   scanf("%d", &N);
-  
+
   // loop que irá ocorrer N vezes, exatamente o que queremos!
-  while(N--) {
+  while (N--)
+  {
     // a cada iteração do loop, lemos os dois número e vemos o maior!
     scanf("%d %d", &numAna, &numBeatriz);
 
-    if(numAna > numBeatriz)
+    if (numAna > numBeatriz)
       pontosAna++;
     else if (numBeatriz > numAna)
       pontosBeatriz++;

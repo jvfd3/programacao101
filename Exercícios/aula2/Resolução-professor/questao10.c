@@ -1,10 +1,13 @@
 #include <stdio.h>
-int main(){
+
+int main()
+{
   int numero;
-  
-  do {
+
+  do
+  {
     scanf("%d", &numero);
-  } while(numero != 5);
+  } while (numero != 5);
 
   return 0;
 }
