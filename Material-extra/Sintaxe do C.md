@@ -1,4 +1,5 @@
-## Estrutura básica de um programa em C
+# Estrutura básica de um programa em C
+
 ```c
 #include <stdio.h>
 
@@ -18,9 +19,11 @@ int main () {
     printf("Um texto qualquer\n");
 }
 ```
+
 ### Observações
-* O `printf` é a *função* que imprime o texto na tela
-* O `\n` (`barra invertida` e letra `n`) significa *[quebra de linha](https://pt.wikipedia.org/wiki/Nova_linha)*
+
+- O `printf` é a _função_ que imprime o texto na tela
+- O `\n` (`barra invertida` e letra `n`) significa _[quebra de linha](https://pt.wikipedia.org/wiki/Nova_linha)_
 
 ## Lendo do teclado
 
@@ -36,12 +39,13 @@ int main () {
 ```
 
 ### Observações
-* O `scanf` é a *função* que lê o texto digitado e guarda o valor em uma *variável*
-* Na linguagem C é necessário colocar o símbolo `&` antes do nome da *variável* para armazenar o valor digitado nela
-* O símbolo `%` seguido da letra `d` (`%d`) faz com que o *input* (texto digitado pelo usuário) seja lido como um número inteiro.
 
+- O `scanf` é a _função_ que lê o texto digitado e guarda o valor em uma _variável_
+- Na linguagem C é necessário colocar o símbolo `&` antes do nome da _variável_ para armazenar o valor digitado nela
+- O símbolo `%` seguido da letra `d` (`%d`) faz com que o _input_ (texto digitado pelo usuário) seja lido como um número inteiro.
 
 ## Links Úteis
-* [Operadores em C | Wikipédia](https://pt.wikipedia.org/wiki/Operadores_em_C_e_C%2B%2B)
-* [Programar em C - Entrada e saída simples | Wikibooks](https://pt.wikibooks.org/wiki/Programar_em_C/Entrada_e_sa%C3%ADda_simples#Especifica%C3%A7%C3%B5es_de_formato)
-* [Página do curso de AEDS 1 (Prof. Pedro Olmo DCC-UFMG)](https://homepages.dcc.ufmg.br/~olmo/wordpress/?page_id=157)
+
+- [Operadores em C | Wikipédia](https://pt.wikipedia.org/wiki/Operadores_em_C_e_C%2B%2B)
+- [Programar em C - Entrada e saída simples | Wikibooks](https://pt.wikibooks.org/wiki/Programar_em_C/Entrada_e_sa%C3%ADda_simples#Especifica%C3%A7%C3%B5es_de_formato)
+- [Página do curso de AEDS 1 (Prof. Pedro Olmo DCC-UFMG)](https://homepages.dcc.ufmg.br/~olmo/wordpress/?page_id=157)
